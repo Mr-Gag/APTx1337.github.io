@@ -2,22 +2,27 @@
 
 This is Where we'll throw our stuff, you can always check [APTx1337](https://github.com/APTx1337) on github,
 
-### Upcoming CTFs
+
+
+## Upcoming CTFs
 
 this part contain the upcoming ctfs that we are going to participate in
 
 
-### Writeups
-## CTF WiteUps
+## Writeups
+
+### CTF WiteUps
 * [resethacker 2020](ctf.resethacker.com) Writeups will be available soon
 * [resethacker 2020](ctf.resethacker.com) Writeups will be available soon
 
 
-## HackTheBox Writeups
+### HackTheBox Writeups
+
 coming soon
 
 
-## TryHackMe Writeups
+## #TryHackMe Writeups
+
 coming soon
 
 
