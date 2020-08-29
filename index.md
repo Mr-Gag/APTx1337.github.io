@@ -16,7 +16,7 @@ layout: default
 
 **CTFTime :** [https://ctftime.org/team/130689](https://ctftime.org/team/130689)
 
-**Twitter:** [https://twitter.com/_____](https://twitter.com/_____)
+**Twitter:** [https://twitter.com/APTx1337](https://twitter.com)
 
 <br clear="left"/>
 
