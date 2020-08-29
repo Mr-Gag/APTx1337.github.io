@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Into
+#Into
 
 **Who We Are:** APTx1337 Team
 
@@ -23,21 +23,21 @@ _References_
 <br clear="left"/>
 
 
-# Team Memebers
+#Team Memebers
 
-** m3dsec         :** [https://github.com/m3dsec](https://github.com/m3dsec)
+**m3dsec :** [https://github.com/m3dsec](https://github.com/m3dsec)
 
-** Bvr0n          :** [https://github.com/bvr0n](https://github.com/bvr0n)
+**Bvr0n :** [https://github.com/bvr0n](https://github.com/bvr0n)
 
-** GuShls1        :** [https://github.com/GuShls1](https://github.com/GuShls1)
+**GuShls1 :** [https://github.com/GuShls1](https://github.com/GuShls1)
 
-** Mr.Gag  		  :** [https://github.com/mr.gag](https://github.com/mr.gag)
+**Mr.Gag :** [https://github.com/mr.gag](https://github.com/mr.gag)
 
-** Y3tAn0th3rN0ob :** [https://github.com/yetanothernoob](https://github.com/yetanothernoob)
+**Y3tAn0th3rN0ob :** [https://github.com/yetanothernoob](https://github.com/yetanothernoob)
 
 
 
-# Posts
+#Posts
 
 - **Aug 29, 2020:** [Post Tite 01](./posts/post01.md)
 - **Aug 29, 2020:** [Post Tite 02](./posts/post02.md)
@@ -46,19 +46,21 @@ _References_
 
 
 
-# HackTheBox Writeups
+
+#HackTheBox Writeups
 
 - **Aug 29, 2020:** [HackTheBox - Blackfield Writeup](./posts/htb/blackfield.md)
 
 
 
-# TryHackMe Writeups
+
+#TryHackMe Writeups
 
 - **Aug 29, 2020:** [TryHackme - Kiba Writeup](./posts/thm/kiba.md)
 
 
 
-# CTF Writeups
+#CTF Writeups
 
 - **Aug 29, 2020:** [darkarmy 2020](./posts/ctf/darkarmy.md)
 - **Aug 29, 2020:** [resethacker 2020](./posts/ctf/resethacker.md)
