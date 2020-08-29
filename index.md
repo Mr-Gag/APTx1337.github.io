@@ -6,15 +6,13 @@ layout: default
 
 **Who We Are:** APTx1337 Team
 
-**Known as:** aptx1337 / Kh0bZo4T4Y
+**Known as:** APTx1337 - Kh0bZo4T4Y
 
 **What do We do:** Ethical Hacking / Red Teaming / CTF
 
 **Where we are:** Morocco
 
-**CTF Time :** APTx1337 @ [APTx1337](https://ctftime.org/team/130689)
-
-_References_
+**CTF Time :** [APTx1337](https://ctftime.org/team/130689) at ctftime
 
 **GitHub:** [https://github.com/APTx1337](https://github.com/APTx1337)
 
@@ -35,7 +33,7 @@ _References_
 
 **Y3tAn0th3rN0ob :** [https://github.com/yetanothernoob](https://github.com/yetanothernoob)
 
-
+<br clear="left">
 
 # Posts
 
@@ -44,21 +42,19 @@ _References_
 - **Aug 29, 2020:** [Post Tite 03](./posts/post03.md)
 - **Aug 29, 2020:** [Post Tite 04](./posts/post04.md)
 
-
-
+<br clear="left">
 
 # HackTheBox_Writeups
 
 - **Aug 29, 2020:** [HackTheBox - Blackfield Writeup](./posts/htb/blackfield.md)
 
-
-
+<br clear="left">
 
 # TryHackMe_Writeups
 
 - **Aug 29, 2020:** [TryHackme - Kiba Writeup](./posts/thm/kiba.md)
 
-
+<br clear="left">
 
 # CTF Writeups
 
