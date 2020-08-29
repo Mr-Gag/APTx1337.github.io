@@ -1,36 +1,25 @@
 ## Welcome to APTx1337
 
-You can use the [editor on GitHub](https://github.com/APTx1337/APTx1337.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is Where we'll throw our stuff, you can always check [APTx1337](https://github.com/APTx1337) on github,
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Upcoming CTFs
 
-### Markdown
+this part contain the upcoming ctfs that we are going to participate in
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Writeups
+## CTF WiteUps
+* [resethacker 2020](ctf.resethacker.com) Writeups will be available soon
+* [resethacker 2020](ctf.resethacker.com) Writeups will be available soon
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## HackTheBox Writeups
+coming soon
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## TryHackMe Writeups
+coming soon
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/APTx1337/APTx1337.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Contact
 
