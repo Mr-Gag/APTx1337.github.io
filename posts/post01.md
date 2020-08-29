@@ -4,7 +4,7 @@ layout: default
 
 _**Aug 29, 2020**_
 
-## A Legitimate post test
+## This is a template post
 
 this is a test post, here we can put an intreduction
 
@@ -324,48 +324,17 @@ meterpreter > powershell_execute "'amsiutils'"
 [+] Command execution completed:
 amsiutils
 
-meterpreter > powershell_import Invoke-Mimikatz.ps1
-[+] File successfully imported. No result was returned.
-meterpreter > powershell_execute "Invoke-Mimikatz -Command coffee"
-[+] Command execution completed:
-
-  .#####.   mimikatz 2.1.1 (x64) #17763 Dec 31 2018 01:15:11
- .## ^ ##.  "A La Vie, A L'Amour" - (oe.eo) ** Kitten Edition **
- ## / \ ##  /*** Benjamin DELPY `gentilkiwi` ( benjamin@gentilkiwi.com )
- ## \ / ##       > http://blog.gentilkiwi.com/mimikatz
- '## v ##'       Vincent LE TOUX             ( vincent.letoux@gmail.com )
-  '#####'        > http://pingcastle.com / http://mysmartlogon.com   ***/
-
-mimikatz(powershell) # coffee
-
-    ( (
-     ) )
-  .______.
-  |      |]
-  \      /
-   `----'
-
-meterpreter >
 ```
 
 ## Some Resources
 
 - [https://www.cyberark.com/threat-research-blog/amsi-bypass-patching-technique/](https://www.cyberark.com/threat-research-blog/amsi-bypass-patching-technique/) [4]
 - [https://www.cyberark.com/threat-research-blog/amsi-bypass-redux/](https://www.cyberark.com/threat-research-blog/amsi-bypass-redux/) [5]
-- [https://0x00-0x00.github.io/research/2018/10/28/How-to-bypass-AMSI-and-Execute-ANY-malicious-powershell-code.html](https://0x00-0x00.github.io/research/2018/10/28/How-to-bypass-AMSI-and-Execute-ANY-malicious-powershell-code.html) [6]
-- [https://rastamouse.me/2018/11/amsiscanbuffer-bypass-part-3/](https://rastamouse.me/2018/11/amsiscanbuffer-bypass-part-3/) [7]
-- [https://www.mdsec.co.uk/2018/06/exploring-powershell-amsi-and-logging-evasion/](https://www.mdsec.co.uk/2018/06/exploring-powershell-amsi-and-logging-evasion/) [11]
+
 
 ## References
 
 1. [https://docs.microsoft.com/en-us/windows/desktop/amsi/antimalware-scan-interface-portal](https://docs.microsoft.com/en-us/windows/desktop/amsi/antimalware-scan-interface-portal)
 2. [https://docs.microsoft.com/en-us/windows/desktop/api/amsi/nf-amsi-amsiscanbuffer](https://docs.microsoft.com/en-us/windows/desktop/api/amsi/nf-amsi-amsiscanbuffer)
-3. [https://twitter.com/mattifestation/status/735261176745988096](https://twitter.com/mattifestation/status/735261176745988096)
-4. [https://www.cyberark.com/threat-research-blog/amsi-bypass-patching-technique/](https://www.cyberark.com/threat-research-blog/amsi-bypass-patching-technique/)
-5. [https://www.cyberark.com/threat-research-blog/amsi-bypass-redux/](https://www.cyberark.com/threat-research-blog/amsi-bypass-redux/)
-6. [https://0x00-0x00.github.io/research/2018/10/28/How-to-bypass-AMSI-and-Execute-ANY-malicious-powershell-code.html](https://0x00-0x00.github.io/research/2018/10/28/How-to-bypass-AMSI-and-Execute-ANY-malicious-powershell-code.html)
-7. [https://rastamouse.me/2018/11/amsiscanbuffer-bypass-part-3/](https://rastamouse.me/2018/11/amsiscanbuffer-bypass-part-3/)
-8. [https://github.com/OmerYa/Invisi-Shell](https://github.com/OmerYa/Invisi-Shell)
-9. [https://www.youtube.com/watch?v=Y3oMEiySxcc](https://www.youtube.com/watch?v=Y3oMEiySxcc)
 
 [back](../)
