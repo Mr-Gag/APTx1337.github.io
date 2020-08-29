@@ -14,9 +14,9 @@ layout: default
 
 **GitHub:** [https://github.com/APTx1337](https://github.com/APTx1337)
 
-**CTFTime :** [APTx1337](https://ctftime.org/team/130689) at ctftime
+**CTFTime :** [https://ctftime.org/team/130689](https://ctftime.org/team/130689)
 
-**Twitter:** [https://twitter.com/APTx1337](https://twitter.com/APTx1337)
+**Twitter:** [https://twitter.com/_____](https://twitter.com/_____)
 
 <br clear="left"/>
 
@@ -31,7 +31,7 @@ layout: default
 
 **Mr.Gag :** [Github](https://github.com/Mr-Gag) - [Twitter](https://twitter.com/x020c) - [TryHackMe](https://tryhackme.com/p/MrGag) - [HackTheBox](https://www.hackthebox.eu/home/users/profile/354210)
 
-**Y3tAn0th3rN0ob :** [https://github.com/yetanothernoob](https://github.com/yetanothernoob)
+**Y3tAn0th3rN0ob :** [Github](https://github.com/Y3tAn0th3rN0ob)
 
 <br clear="left">
 
